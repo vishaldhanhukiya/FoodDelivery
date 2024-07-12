@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300346180697",
+    "project_id": "food-delivery-94920",
+    "storage_bucket": "food-delivery-94920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300346180697:android:a7b055147c5a4d8132dd48",
+        "android_client_info": {
+          "package_name": "com.trycatch_vishal.fooddelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzS6TPZXDKE5ZeGgg17Lio-Mr_CbsynN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
